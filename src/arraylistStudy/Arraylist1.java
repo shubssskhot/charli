@@ -1,7 +1,7 @@
 package arraylistStudy;
 
 public class Arraylist1 {
-
+// hello shubham
 //	public static void main(String[] args) {
 //		ArrayList ar =new ArrayList();
 //		ar.add("shubham");
